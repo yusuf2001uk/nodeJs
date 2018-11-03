@@ -1,0 +1,78 @@
+    1  sudo su
+    2  exit
+    3  links google.com
+    4  htop
+    5  sudo apt-get install htop
+    6  clear
+    7  exit
+    8  https://narg.address.gov.sa/ar/individual/registration/default.aspxhttps://narg.address.gov.sa/ar/individual/registration/default.aspxexit
+    9  exit
+   10  cmd
+   11  clear
+   12  exit
+   13  sudo su
+   14  exit
+   15  sudo su
+   16  clear
+   17  sudo su
+   18  exit
+   19  sudo su
+   20  exit
+   21  clear
+   22  sudo su
+   23  exit
+   24  sudo su
+   25  exit
+   26  clear
+   27  uname -rd
+   28  uname -rs
+   29  clear
+   30  uname -rs && lsb_release -rd
+   31  exit
+   32  sudo -i
+   33  clear
+   34  gpg --gen-key
+   35  gpg --list-keys
+   36  gpg --list-secret-keys
+   37  gpg --armor --export
+   38  clear
+   39  git config --list
+   40  git config --global use.name "Yusuf Othman"
+   41  git config --global use.email "yusuf2001uk@gmail.com"
+   42  clear
+   43  git config --list
+   44  git config --global user.email "yusuf2001uk@gmail.com"
+   45  clear
+   46  git config --list
+   47  git config --global user.name "Yusuf Othman"
+   48  git config --list
+   49  git config --global user.signingkey "auto"
+   50  clear
+   51  git config --list
+   52  clear
+   53  git status
+   54  git add .
+   55  git status
+   56  git commit -m "todays chacnges"
+   57  git push -u origin master
+   58  gpg --list-secret-keys
+   59  git config --global user.signingkey 88B99B84
+   60  clear
+   61  git commit -am "todays chacngesclear"
+   62  git commit -a -s "todays chacngesclear"
+   63  git commit -s -m "todays chacngesclear"
+   64  git commit -s -am "todays chacngesclear"
+   65  git commit -S -am "todays chacngesclear"
+   66  git push -u origin master
+   67  clear
+   68  git config --global commit.gpgSign truesudo -i
+   69  sudo -i
+   70  clear
+   71  history >>Enabling GPG on Github.txt
+   72  history
+   73  history >> Enabling GPG on Github.txt
+   74  history >> Enabling GPG on Github
+   75  history >> Enabling  on Github
+   76  history >> Enabling 
+   77  clear
+   78  history >> Enabling.txt
